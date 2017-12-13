@@ -1,7 +1,8 @@
 # Wheel of Fortune
-- website with a wheel of fortune in javascript
+- Wheel of Fortune use for Coupon and Deals - Javascript OpenSource by Create Website Team
 
 Demo link  - http://createwebsite.net/freebies/wheel-of-fortune/
+Download link - https://www.createwebsite.net/service/wheel-fortune-javascript/
 
 ## Game config
 - file game.js
