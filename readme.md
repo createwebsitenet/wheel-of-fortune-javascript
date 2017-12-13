@@ -1,6 +1,8 @@
 # Wheel of Fortune
 - website with a wheel of fortune in javascript
 
+Demo link  - http://createwebsite.net/freebies/wheel-of-fortune/
+
 ## Game config
 - file game.js
 - use shuffle(sections); in initGame() function to draw an random game
