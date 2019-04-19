@@ -3,7 +3,8 @@
 
 Demo link  - http://createwebsite.net/freebies/wheel-of-fortune/
 Download link - https://www.createwebsite.net/service/wheel-fortune-javascript/
-<a href="https://html.design" title="Free Website Templates">Free Website Templates </a>
+
+Find more useful <a href="https://html.design" title="Free Website Templates">Free Website Templates </a> PSD design and Website templates.
 
 ## Game config
 - file game.js
